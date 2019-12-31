@@ -7,3 +7,5 @@ Mes liens utilise
 
 ## Add Graph in to django Admin 
 >https://findwork.dev/blog/adding-charts-to-django-admin/
+## Django QrCode
+>https://django-qr-code.readthedocs.io/en/latest/pages/README.html#installation
