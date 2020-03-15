@@ -9,3 +9,5 @@ Mes liens utilise
 >https://findwork.dev/blog/adding-charts-to-django-admin/
 ## Django QrCode
 >https://django-qr-code.readthedocs.io/en/latest/pages/README.html#installation
+## Django jindja filter 
+>https://docs.djangoproject.com/fr/1.11/ref/templates/language/
